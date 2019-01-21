@@ -1,5 +1,7 @@
 # react-scripts
 
+This package is a for of [Create React App](https://github.com/facebook/create-react-app) which contains the react-scripts relevant to how we configure our react apps at simplesurance.
+
 This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
 Please refer to its documentation:
 
